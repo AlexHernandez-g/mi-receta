@@ -1,10 +1,10 @@
 # Mi receta  
 
-Nombre del plato: ....
+Nombre del plato: Arroz con pollo 
 
 ## ingredientes 
 
-Arroz con pollo
+
 Arroz
 Pollo
 Salsas
