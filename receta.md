@@ -28,3 +28,7 @@ Entre 40 minutos a 1 hora aproximadamente
 6. Incorporar el arroz ya lavado al pollo sofrito 
 7. Sal o pimienta al gusto 
 8. Tapar y dejar cocinar a fuego lento 
+
+## Consejo
+
+Sigue el paso a paso, pero ante todo hazlo con amor 
