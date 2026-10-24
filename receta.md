@@ -11,3 +11,5 @@ Salsas
 Verduras
 Sal
 Ajo
+Azucar
+Panela
