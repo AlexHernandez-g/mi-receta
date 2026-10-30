@@ -13,3 +13,7 @@ Encontrar un buen empleo y generar ingresos con la programacion
 ## Meta tres
 
 Crear mi propio emprendimiento 
+
+## Meta Cuatro 
+
+Aprender mas cosas sobre programacion y ser uno de los mejores en esto 
