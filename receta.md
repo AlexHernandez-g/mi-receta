@@ -31,4 +31,4 @@ Entre 40 minutos a 1 hora aproximadamente
 
 ## Consejo
 
-Sigue el paso a paso, pero ante todo hazlo con amor 
+Sigue el paso a paso, pero ante todo hazlo con amor y recuerda todo sabe mejor si lo haces con pasión
